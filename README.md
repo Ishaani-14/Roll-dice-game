@@ -26,7 +26,3 @@ The goal is to select a number and then roll the dice. If your chosen number mat
 2. Clicks the dice image/button.
 3. Dice is rolled → shows a random number from `1–6`.
 4. If rolled number == selected number → **score +1**.
-
----
-
-## 📂 Project Structure
